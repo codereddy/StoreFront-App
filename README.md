@@ -7,7 +7,7 @@ This is a simple storefront application using React, TypeScript, Styled Componen
 
 1. Setting Up a Localhost:
    
-   git clone <repo-url>
+   git clone https://github.com/codereddy/StoreFront-App/tree/main
    cd store-app
    npm install
    npm start
@@ -18,7 +18,9 @@ This will run the app in the development mode. Open http://localhost:3000 to vie
 
    ## Deployment to Netlify
    npm install -g netlify-cli
+   
    netlify login
+   
    netlify deploy
 
    ## Technologies Used
