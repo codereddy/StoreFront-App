@@ -32,7 +32,7 @@ This will run the app in the development mode. Open http://localhost:3000 to vie
    Fake Store API: API for fetching product data and categories data
 
 
-# Create React App
+## Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
